@@ -65,7 +65,7 @@ angular.module('starter', ['ionic', 'LocalStorageModule'])
                 stopTimeout: 5,
 
                 // Application config
-                debug: true,
+                debug: false,
                 stopOnTerminate: false,
                 startOnBoot: true,
 
